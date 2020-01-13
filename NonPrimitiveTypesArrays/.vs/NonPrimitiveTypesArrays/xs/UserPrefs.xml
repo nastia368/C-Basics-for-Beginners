@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BFBEAFD5-89C4-45C4-A79F-1F49B33AFE31}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NonPrimitiveTypesArrays/Program.cs">
+    <Files>
+      <File FileName="NonPrimitiveTypesArrays/Program.cs" Line="18" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NonPrimitiveTypesArrays" expanded="True">
+            <Node name="NonPrimitiveTypesArrays" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NonPrimitiveTypesArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

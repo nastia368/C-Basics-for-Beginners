@@ -1,0 +1,11 @@
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypesEnum/NonPrimitiveTypesEnum/obj/Debug/netcoreapp3.1/NonPrimitiveTypesEnum.csprojAssemblyReference.cache
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypesEnum/NonPrimitiveTypesEnum/obj/Debug/netcoreapp3.1/NonPrimitiveTypesEnum.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypesEnum/NonPrimitiveTypesEnum/obj/Debug/netcoreapp3.1/NonPrimitiveTypesEnum.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypesEnum/NonPrimitiveTypesEnum/bin/Debug/netcoreapp3.1/NonPrimitiveTypesEnum
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypesEnum/NonPrimitiveTypesEnum/bin/Debug/netcoreapp3.1/NonPrimitiveTypesEnum.deps.json
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypesEnum/NonPrimitiveTypesEnum/bin/Debug/netcoreapp3.1/NonPrimitiveTypesEnum.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypesEnum/NonPrimitiveTypesEnum/bin/Debug/netcoreapp3.1/NonPrimitiveTypesEnum.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypesEnum/NonPrimitiveTypesEnum/bin/Debug/netcoreapp3.1/NonPrimitiveTypesEnum.dll
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypesEnum/NonPrimitiveTypesEnum/bin/Debug/netcoreapp3.1/NonPrimitiveTypesEnum.pdb
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypesEnum/NonPrimitiveTypesEnum/obj/Debug/netcoreapp3.1/NonPrimitiveTypesEnum.dll
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypesEnum/NonPrimitiveTypesEnum/obj/Debug/netcoreapp3.1/NonPrimitiveTypesEnum.pdb
