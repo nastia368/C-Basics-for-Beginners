@@ -1,0 +1,11 @@
+/Users/anastasiiastadnik/Projects/Operators/Operators/bin/Debug/netcoreapp3.0/Operators
+/Users/anastasiiastadnik/Projects/Operators/Operators/bin/Debug/netcoreapp3.0/Operators.deps.json
+/Users/anastasiiastadnik/Projects/Operators/Operators/bin/Debug/netcoreapp3.0/Operators.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/Operators/Operators/bin/Debug/netcoreapp3.0/Operators.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/Operators/Operators/bin/Debug/netcoreapp3.0/Operators.dll
+/Users/anastasiiastadnik/Projects/Operators/Operators/bin/Debug/netcoreapp3.0/Operators.pdb
+/Users/anastasiiastadnik/Projects/Operators/Operators/obj/Debug/netcoreapp3.0/Operators.csprojAssemblyReference.cache
+/Users/anastasiiastadnik/Projects/Operators/Operators/obj/Debug/netcoreapp3.0/Operators.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/Operators/Operators/obj/Debug/netcoreapp3.0/Operators.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/Operators/Operators/obj/Debug/netcoreapp3.0/Operators.dll
+/Users/anastasiiastadnik/Projects/Operators/Operators/obj/Debug/netcoreapp3.0/Operators.pdb

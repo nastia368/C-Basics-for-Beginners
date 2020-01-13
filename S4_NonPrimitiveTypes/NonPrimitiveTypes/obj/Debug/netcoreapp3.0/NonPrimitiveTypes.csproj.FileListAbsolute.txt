@@ -1,0 +1,11 @@
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypes/NonPrimitiveTypes/bin/Debug/netcoreapp3.0/NonPrimitiveTypes
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypes/NonPrimitiveTypes/bin/Debug/netcoreapp3.0/NonPrimitiveTypes.deps.json
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypes/NonPrimitiveTypes/bin/Debug/netcoreapp3.0/NonPrimitiveTypes.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypes/NonPrimitiveTypes/bin/Debug/netcoreapp3.0/NonPrimitiveTypes.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypes/NonPrimitiveTypes/bin/Debug/netcoreapp3.0/NonPrimitiveTypes.dll
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypes/NonPrimitiveTypes/bin/Debug/netcoreapp3.0/NonPrimitiveTypes.pdb
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypes/NonPrimitiveTypes/obj/Debug/netcoreapp3.0/NonPrimitiveTypes.csprojAssemblyReference.cache
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypes/NonPrimitiveTypes/obj/Debug/netcoreapp3.0/NonPrimitiveTypes.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypes/NonPrimitiveTypes/obj/Debug/netcoreapp3.0/NonPrimitiveTypes.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypes/NonPrimitiveTypes/obj/Debug/netcoreapp3.0/NonPrimitiveTypes.dll
+/Users/anastasiiastadnik/Projects/NonPrimitiveTypes/NonPrimitiveTypes/obj/Debug/netcoreapp3.0/NonPrimitiveTypes.pdb
