@@ -1,0 +1,11 @@
+/Users/anastasiiastadnik/Projects/S5_FirstExercises/S5_FirstExercises/bin/Debug/netcoreapp3.1/S5_FirstExercises
+/Users/anastasiiastadnik/Projects/S5_FirstExercises/S5_FirstExercises/bin/Debug/netcoreapp3.1/S5_FirstExercises.deps.json
+/Users/anastasiiastadnik/Projects/S5_FirstExercises/S5_FirstExercises/bin/Debug/netcoreapp3.1/S5_FirstExercises.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S5_FirstExercises/S5_FirstExercises/bin/Debug/netcoreapp3.1/S5_FirstExercises.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S5_FirstExercises/S5_FirstExercises/bin/Debug/netcoreapp3.1/S5_FirstExercises.dll
+/Users/anastasiiastadnik/Projects/S5_FirstExercises/S5_FirstExercises/bin/Debug/netcoreapp3.1/S5_FirstExercises.pdb
+/Users/anastasiiastadnik/Projects/S5_FirstExercises/S5_FirstExercises/obj/Debug/netcoreapp3.1/S5_FirstExercises.csprojAssemblyReference.cache
+/Users/anastasiiastadnik/Projects/S5_FirstExercises/S5_FirstExercises/obj/Debug/netcoreapp3.1/S5_FirstExercises.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S5_FirstExercises/S5_FirstExercises/obj/Debug/netcoreapp3.1/S5_FirstExercises.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S5_FirstExercises/S5_FirstExercises/obj/Debug/netcoreapp3.1/S5_FirstExercises.dll
+/Users/anastasiiastadnik/Projects/S5_FirstExercises/S5_FirstExercises/obj/Debug/netcoreapp3.1/S5_FirstExercises.pdb

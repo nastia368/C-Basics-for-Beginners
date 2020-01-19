@@ -1,0 +1,10 @@
+/Users/anastasiiastadnik/Projects/S5_ConditionalStatements/S5_ConditionalStatements/obj/Debug/netcoreapp3.1/S5_ConditionalStatements.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S5_ConditionalStatements/S5_ConditionalStatements/obj/Debug/netcoreapp3.1/S5_ConditionalStatements.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S5_ConditionalStatements/S5_ConditionalStatements/bin/Debug/netcoreapp3.1/S5_ConditionalStatements
+/Users/anastasiiastadnik/Projects/S5_ConditionalStatements/S5_ConditionalStatements/bin/Debug/netcoreapp3.1/S5_ConditionalStatements.deps.json
+/Users/anastasiiastadnik/Projects/S5_ConditionalStatements/S5_ConditionalStatements/bin/Debug/netcoreapp3.1/S5_ConditionalStatements.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S5_ConditionalStatements/S5_ConditionalStatements/bin/Debug/netcoreapp3.1/S5_ConditionalStatements.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S5_ConditionalStatements/S5_ConditionalStatements/bin/Debug/netcoreapp3.1/S5_ConditionalStatements.dll
+/Users/anastasiiastadnik/Projects/S5_ConditionalStatements/S5_ConditionalStatements/bin/Debug/netcoreapp3.1/S5_ConditionalStatements.pdb
+/Users/anastasiiastadnik/Projects/S5_ConditionalStatements/S5_ConditionalStatements/obj/Debug/netcoreapp3.1/S5_ConditionalStatements.dll
+/Users/anastasiiastadnik/Projects/S5_ConditionalStatements/S5_ConditionalStatements/obj/Debug/netcoreapp3.1/S5_ConditionalStatements.pdb
