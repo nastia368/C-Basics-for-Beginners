@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{8D7BD6BB-7A07-4EAC-8E74-9159AE244639}|Default">
-  <MonoDevelop.Ide.ItemProperties.S5__FirstExercises PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="S5_FirstExercises/Program.cs">
+﻿<Properties StartupConfiguration="{8E57B410-B4E6-4DBD-BAD5-8384B2268EC4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="S5_IterationStatements/Program.cs">
     <Files>
-      <File FileName="S5_FirstExercises/Program.cs" Line="51" Column="38" />
+      <File FileName="S5_IterationStatements/Program.cs" Line="69" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="S5_FirstExercises" expanded="True">
-            <Node name="S5_FirstExercises" expanded="True">
+          <Node name="S5_IterationStatements" expanded="True">
+            <Node name="S5_IterationStatements" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,6 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.S5__IterationStatements PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

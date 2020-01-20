@@ -1,0 +1,10 @@
+/Users/anastasiiastadnik/Projects/S5_IterationStatements/S5_IterationStatements/bin/Debug/netcoreapp3.1/S5_IterationStatements
+/Users/anastasiiastadnik/Projects/S5_IterationStatements/S5_IterationStatements/bin/Debug/netcoreapp3.1/S5_IterationStatements.deps.json
+/Users/anastasiiastadnik/Projects/S5_IterationStatements/S5_IterationStatements/bin/Debug/netcoreapp3.1/S5_IterationStatements.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S5_IterationStatements/S5_IterationStatements/bin/Debug/netcoreapp3.1/S5_IterationStatements.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S5_IterationStatements/S5_IterationStatements/bin/Debug/netcoreapp3.1/S5_IterationStatements.dll
+/Users/anastasiiastadnik/Projects/S5_IterationStatements/S5_IterationStatements/bin/Debug/netcoreapp3.1/S5_IterationStatements.pdb
+/Users/anastasiiastadnik/Projects/S5_IterationStatements/S5_IterationStatements/obj/Debug/netcoreapp3.1/S5_IterationStatements.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S5_IterationStatements/S5_IterationStatements/obj/Debug/netcoreapp3.1/S5_IterationStatements.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S5_IterationStatements/S5_IterationStatements/obj/Debug/netcoreapp3.1/S5_IterationStatements.dll
+/Users/anastasiiastadnik/Projects/S5_IterationStatements/S5_IterationStatements/obj/Debug/netcoreapp3.1/S5_IterationStatements.pdb

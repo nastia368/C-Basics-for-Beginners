@@ -1,0 +1,11 @@
+/Users/anastasiiastadnik/Projects/S5_RandomClass/S5_RandomClass/bin/Debug/netcoreapp3.1/S5_RandomClass
+/Users/anastasiiastadnik/Projects/S5_RandomClass/S5_RandomClass/bin/Debug/netcoreapp3.1/S5_RandomClass.deps.json
+/Users/anastasiiastadnik/Projects/S5_RandomClass/S5_RandomClass/bin/Debug/netcoreapp3.1/S5_RandomClass.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S5_RandomClass/S5_RandomClass/bin/Debug/netcoreapp3.1/S5_RandomClass.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S5_RandomClass/S5_RandomClass/bin/Debug/netcoreapp3.1/S5_RandomClass.dll
+/Users/anastasiiastadnik/Projects/S5_RandomClass/S5_RandomClass/bin/Debug/netcoreapp3.1/S5_RandomClass.pdb
+/Users/anastasiiastadnik/Projects/S5_RandomClass/S5_RandomClass/obj/Debug/netcoreapp3.1/S5_RandomClass.csprojAssemblyReference.cache
+/Users/anastasiiastadnik/Projects/S5_RandomClass/S5_RandomClass/obj/Debug/netcoreapp3.1/S5_RandomClass.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S5_RandomClass/S5_RandomClass/obj/Debug/netcoreapp3.1/S5_RandomClass.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S5_RandomClass/S5_RandomClass/obj/Debug/netcoreapp3.1/S5_RandomClass.dll
+/Users/anastasiiastadnik/Projects/S5_RandomClass/S5_RandomClass/obj/Debug/netcoreapp3.1/S5_RandomClass.pdb
