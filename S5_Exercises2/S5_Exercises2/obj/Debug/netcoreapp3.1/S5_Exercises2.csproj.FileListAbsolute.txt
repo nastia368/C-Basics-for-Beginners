@@ -1,0 +1,10 @@
+/Users/anastasiiastadnik/Projects/S5_Exercises2/S5_Exercises2/bin/Debug/netcoreapp3.1/S5_Exercises2
+/Users/anastasiiastadnik/Projects/S5_Exercises2/S5_Exercises2/bin/Debug/netcoreapp3.1/S5_Exercises2.deps.json
+/Users/anastasiiastadnik/Projects/S5_Exercises2/S5_Exercises2/bin/Debug/netcoreapp3.1/S5_Exercises2.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S5_Exercises2/S5_Exercises2/bin/Debug/netcoreapp3.1/S5_Exercises2.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S5_Exercises2/S5_Exercises2/bin/Debug/netcoreapp3.1/S5_Exercises2.dll
+/Users/anastasiiastadnik/Projects/S5_Exercises2/S5_Exercises2/bin/Debug/netcoreapp3.1/S5_Exercises2.pdb
+/Users/anastasiiastadnik/Projects/S5_Exercises2/S5_Exercises2/obj/Debug/netcoreapp3.1/S5_Exercises2.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S5_Exercises2/S5_Exercises2/obj/Debug/netcoreapp3.1/S5_Exercises2.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S5_Exercises2/S5_Exercises2/obj/Debug/netcoreapp3.1/S5_Exercises2.dll
+/Users/anastasiiastadnik/Projects/S5_Exercises2/S5_Exercises2/obj/Debug/netcoreapp3.1/S5_Exercises2.pdb
