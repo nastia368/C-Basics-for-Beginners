@@ -1,0 +1,11 @@
+/Users/anastasiiastadnik/Projects/S6_Exercises3/S6_Exercises3/bin/Debug/netcoreapp3.1/S6_Exercises3
+/Users/anastasiiastadnik/Projects/S6_Exercises3/S6_Exercises3/bin/Debug/netcoreapp3.1/S6_Exercises3.deps.json
+/Users/anastasiiastadnik/Projects/S6_Exercises3/S6_Exercises3/bin/Debug/netcoreapp3.1/S6_Exercises3.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S6_Exercises3/S6_Exercises3/bin/Debug/netcoreapp3.1/S6_Exercises3.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S6_Exercises3/S6_Exercises3/bin/Debug/netcoreapp3.1/S6_Exercises3.dll
+/Users/anastasiiastadnik/Projects/S6_Exercises3/S6_Exercises3/bin/Debug/netcoreapp3.1/S6_Exercises3.pdb
+/Users/anastasiiastadnik/Projects/S6_Exercises3/S6_Exercises3/obj/Debug/netcoreapp3.1/S6_Exercises3.csprojAssemblyReference.cache
+/Users/anastasiiastadnik/Projects/S6_Exercises3/S6_Exercises3/obj/Debug/netcoreapp3.1/S6_Exercises3.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S6_Exercises3/S6_Exercises3/obj/Debug/netcoreapp3.1/S6_Exercises3.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S6_Exercises3/S6_Exercises3/obj/Debug/netcoreapp3.1/S6_Exercises3.dll
+/Users/anastasiiastadnik/Projects/S6_Exercises3/S6_Exercises3/obj/Debug/netcoreapp3.1/S6_Exercises3.pdb

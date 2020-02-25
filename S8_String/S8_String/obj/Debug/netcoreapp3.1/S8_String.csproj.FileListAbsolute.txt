@@ -1,0 +1,11 @@
+/Users/anastasiiastadnik/Projects/S8_String/S8_String/obj/Debug/netcoreapp3.1/S8_String.csprojAssemblyReference.cache
+/Users/anastasiiastadnik/Projects/S8_String/S8_String/obj/Debug/netcoreapp3.1/S8_String.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S8_String/S8_String/obj/Debug/netcoreapp3.1/S8_String.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S8_String/S8_String/bin/Debug/netcoreapp3.1/S8_String
+/Users/anastasiiastadnik/Projects/S8_String/S8_String/bin/Debug/netcoreapp3.1/S8_String.deps.json
+/Users/anastasiiastadnik/Projects/S8_String/S8_String/bin/Debug/netcoreapp3.1/S8_String.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S8_String/S8_String/bin/Debug/netcoreapp3.1/S8_String.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S8_String/S8_String/bin/Debug/netcoreapp3.1/S8_String.dll
+/Users/anastasiiastadnik/Projects/S8_String/S8_String/bin/Debug/netcoreapp3.1/S8_String.pdb
+/Users/anastasiiastadnik/Projects/S8_String/S8_String/obj/Debug/netcoreapp3.1/S8_String.dll
+/Users/anastasiiastadnik/Projects/S8_String/S8_String/obj/Debug/netcoreapp3.1/S8_String.pdb

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3507066B-5D50-4B7A-8771-093EFB60979B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="S8_SummarisingText/Program.cs">
+    <Files>
+      <File FileName="S8_SummarisingText/StringUtility.cs" Line="6" Column="16" />
+      <File FileName="S8_SummarisingText/Program.cs" Line="16" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="S8_SummarisingText" expanded="True">
+            <Node name="S8_SummarisingText" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.S8__SummarisingText PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

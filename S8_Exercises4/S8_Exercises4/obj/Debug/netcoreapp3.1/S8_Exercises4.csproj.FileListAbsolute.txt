@@ -1,0 +1,11 @@
+/Users/anastasiiastadnik/Projects/S8_Exercises4/S8_Exercises4/obj/Debug/netcoreapp3.1/S8_Exercises4.csprojAssemblyReference.cache
+/Users/anastasiiastadnik/Projects/S8_Exercises4/S8_Exercises4/obj/Debug/netcoreapp3.1/S8_Exercises4.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S8_Exercises4/S8_Exercises4/obj/Debug/netcoreapp3.1/S8_Exercises4.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S8_Exercises4/S8_Exercises4/bin/Debug/netcoreapp3.1/S8_Exercises4
+/Users/anastasiiastadnik/Projects/S8_Exercises4/S8_Exercises4/bin/Debug/netcoreapp3.1/S8_Exercises4.deps.json
+/Users/anastasiiastadnik/Projects/S8_Exercises4/S8_Exercises4/bin/Debug/netcoreapp3.1/S8_Exercises4.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S8_Exercises4/S8_Exercises4/bin/Debug/netcoreapp3.1/S8_Exercises4.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S8_Exercises4/S8_Exercises4/bin/Debug/netcoreapp3.1/S8_Exercises4.dll
+/Users/anastasiiastadnik/Projects/S8_Exercises4/S8_Exercises4/bin/Debug/netcoreapp3.1/S8_Exercises4.pdb
+/Users/anastasiiastadnik/Projects/S8_Exercises4/S8_Exercises4/obj/Debug/netcoreapp3.1/S8_Exercises4.dll
+/Users/anastasiiastadnik/Projects/S8_Exercises4/S8_Exercises4/obj/Debug/netcoreapp3.1/S8_Exercises4.pdb

@@ -1,0 +1,11 @@
+/Users/anastasiiastadnik/Projects/S7_DateTime/S7_DateTime/bin/Debug/netcoreapp3.1/S7_DateTime
+/Users/anastasiiastadnik/Projects/S7_DateTime/S7_DateTime/bin/Debug/netcoreapp3.1/S7_DateTime.deps.json
+/Users/anastasiiastadnik/Projects/S7_DateTime/S7_DateTime/bin/Debug/netcoreapp3.1/S7_DateTime.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S7_DateTime/S7_DateTime/bin/Debug/netcoreapp3.1/S7_DateTime.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S7_DateTime/S7_DateTime/bin/Debug/netcoreapp3.1/S7_DateTime.dll
+/Users/anastasiiastadnik/Projects/S7_DateTime/S7_DateTime/bin/Debug/netcoreapp3.1/S7_DateTime.pdb
+/Users/anastasiiastadnik/Projects/S7_DateTime/S7_DateTime/obj/Debug/netcoreapp3.1/S7_DateTime.csprojAssemblyReference.cache
+/Users/anastasiiastadnik/Projects/S7_DateTime/S7_DateTime/obj/Debug/netcoreapp3.1/S7_DateTime.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S7_DateTime/S7_DateTime/obj/Debug/netcoreapp3.1/S7_DateTime.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S7_DateTime/S7_DateTime/obj/Debug/netcoreapp3.1/S7_DateTime.dll
+/Users/anastasiiastadnik/Projects/S7_DateTime/S7_DateTime/obj/Debug/netcoreapp3.1/S7_DateTime.pdb

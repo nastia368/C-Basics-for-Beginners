@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F1318404-456E-4478-ADF9-F595242C0C88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="S8_Exercises4/Program.cs">
+    <Files>
+      <File FileName="S8_Exercises4/Program.cs" Line="21" Column="1" />
+      <File FileName="../../Downloads/Strings.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="S8_Exercises4" expanded="True">
+            <Node name="S8_Exercises4" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.S8__Exercises4 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

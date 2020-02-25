@@ -1,0 +1,11 @@
+/Users/anastasiiastadnik/Projects/S6_Arrays/S6_Arrays/obj/Debug/netcoreapp3.1/S6_Arrays.csprojAssemblyReference.cache
+/Users/anastasiiastadnik/Projects/S6_Arrays/S6_Arrays/obj/Debug/netcoreapp3.1/S6_Arrays.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S6_Arrays/S6_Arrays/obj/Debug/netcoreapp3.1/S6_Arrays.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S6_Arrays/S6_Arrays/bin/Debug/netcoreapp3.1/S6_Arrays
+/Users/anastasiiastadnik/Projects/S6_Arrays/S6_Arrays/bin/Debug/netcoreapp3.1/S6_Arrays.deps.json
+/Users/anastasiiastadnik/Projects/S6_Arrays/S6_Arrays/bin/Debug/netcoreapp3.1/S6_Arrays.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S6_Arrays/S6_Arrays/bin/Debug/netcoreapp3.1/S6_Arrays.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S6_Arrays/S6_Arrays/bin/Debug/netcoreapp3.1/S6_Arrays.dll
+/Users/anastasiiastadnik/Projects/S6_Arrays/S6_Arrays/bin/Debug/netcoreapp3.1/S6_Arrays.pdb
+/Users/anastasiiastadnik/Projects/S6_Arrays/S6_Arrays/obj/Debug/netcoreapp3.1/S6_Arrays.dll
+/Users/anastasiiastadnik/Projects/S6_Arrays/S6_Arrays/obj/Debug/netcoreapp3.1/S6_Arrays.pdb

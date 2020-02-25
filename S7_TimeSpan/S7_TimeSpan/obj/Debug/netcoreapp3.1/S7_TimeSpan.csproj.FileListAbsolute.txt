@@ -1,0 +1,11 @@
+/Users/anastasiiastadnik/Projects/S7_TimeSpan/S7_TimeSpan/bin/Debug/netcoreapp3.1/S7_TimeSpan
+/Users/anastasiiastadnik/Projects/S7_TimeSpan/S7_TimeSpan/bin/Debug/netcoreapp3.1/S7_TimeSpan.deps.json
+/Users/anastasiiastadnik/Projects/S7_TimeSpan/S7_TimeSpan/bin/Debug/netcoreapp3.1/S7_TimeSpan.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S7_TimeSpan/S7_TimeSpan/bin/Debug/netcoreapp3.1/S7_TimeSpan.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S7_TimeSpan/S7_TimeSpan/bin/Debug/netcoreapp3.1/S7_TimeSpan.dll
+/Users/anastasiiastadnik/Projects/S7_TimeSpan/S7_TimeSpan/bin/Debug/netcoreapp3.1/S7_TimeSpan.pdb
+/Users/anastasiiastadnik/Projects/S7_TimeSpan/S7_TimeSpan/obj/Debug/netcoreapp3.1/S7_TimeSpan.csprojAssemblyReference.cache
+/Users/anastasiiastadnik/Projects/S7_TimeSpan/S7_TimeSpan/obj/Debug/netcoreapp3.1/S7_TimeSpan.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S7_TimeSpan/S7_TimeSpan/obj/Debug/netcoreapp3.1/S7_TimeSpan.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S7_TimeSpan/S7_TimeSpan/obj/Debug/netcoreapp3.1/S7_TimeSpan.dll
+/Users/anastasiiastadnik/Projects/S7_TimeSpan/S7_TimeSpan/obj/Debug/netcoreapp3.1/S7_TimeSpan.pdb

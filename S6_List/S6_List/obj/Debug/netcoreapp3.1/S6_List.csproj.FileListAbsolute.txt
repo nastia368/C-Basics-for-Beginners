@@ -1,0 +1,11 @@
+/Users/anastasiiastadnik/Projects/S6_List/S6_List/obj/Debug/netcoreapp3.1/S6_List.csprojAssemblyReference.cache
+/Users/anastasiiastadnik/Projects/S6_List/S6_List/obj/Debug/netcoreapp3.1/S6_List.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S6_List/S6_List/obj/Debug/netcoreapp3.1/S6_List.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S6_List/S6_List/bin/Debug/netcoreapp3.1/S6_List
+/Users/anastasiiastadnik/Projects/S6_List/S6_List/bin/Debug/netcoreapp3.1/S6_List.deps.json
+/Users/anastasiiastadnik/Projects/S6_List/S6_List/bin/Debug/netcoreapp3.1/S6_List.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S6_List/S6_List/bin/Debug/netcoreapp3.1/S6_List.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S6_List/S6_List/bin/Debug/netcoreapp3.1/S6_List.dll
+/Users/anastasiiastadnik/Projects/S6_List/S6_List/bin/Debug/netcoreapp3.1/S6_List.pdb
+/Users/anastasiiastadnik/Projects/S6_List/S6_List/obj/Debug/netcoreapp3.1/S6_List.dll
+/Users/anastasiiastadnik/Projects/S6_List/S6_List/obj/Debug/netcoreapp3.1/S6_List.pdb

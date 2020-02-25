@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5847654B-11A1-4402-AB7A-D02759F75EA6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="S6_Arrays/Program.cs">
+    <Files>
+      <File FileName="S6_Arrays/Program.cs" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="S6_Arrays" expanded="True">
+            <Node name="S6_Arrays" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../S6_Arrays/Program.cs" line="20" column="30" endLine="20" endColumn="37" offsetX="-1" offsetY="-1" expression="numbers[2]" liveUpdate="False" />
+    <Watch file="../../../S6_Arrays/Program.cs" line="24" column="16" endLine="24" endColumn="36" offsetX="-1" offsetY="-1" expression="another" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.S6__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

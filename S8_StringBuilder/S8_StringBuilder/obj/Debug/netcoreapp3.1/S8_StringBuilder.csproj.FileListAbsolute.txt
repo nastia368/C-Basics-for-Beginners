@@ -1,0 +1,11 @@
+/Users/anastasiiastadnik/Projects/S8_StringBuilder/S8_StringBuilder/bin/Debug/netcoreapp3.1/S8_StringBuilder
+/Users/anastasiiastadnik/Projects/S8_StringBuilder/S8_StringBuilder/bin/Debug/netcoreapp3.1/S8_StringBuilder.deps.json
+/Users/anastasiiastadnik/Projects/S8_StringBuilder/S8_StringBuilder/bin/Debug/netcoreapp3.1/S8_StringBuilder.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S8_StringBuilder/S8_StringBuilder/bin/Debug/netcoreapp3.1/S8_StringBuilder.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S8_StringBuilder/S8_StringBuilder/bin/Debug/netcoreapp3.1/S8_StringBuilder.dll
+/Users/anastasiiastadnik/Projects/S8_StringBuilder/S8_StringBuilder/bin/Debug/netcoreapp3.1/S8_StringBuilder.pdb
+/Users/anastasiiastadnik/Projects/S8_StringBuilder/S8_StringBuilder/obj/Debug/netcoreapp3.1/S8_StringBuilder.csprojAssemblyReference.cache
+/Users/anastasiiastadnik/Projects/S8_StringBuilder/S8_StringBuilder/obj/Debug/netcoreapp3.1/S8_StringBuilder.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S8_StringBuilder/S8_StringBuilder/obj/Debug/netcoreapp3.1/S8_StringBuilder.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S8_StringBuilder/S8_StringBuilder/obj/Debug/netcoreapp3.1/S8_StringBuilder.dll
+/Users/anastasiiastadnik/Projects/S8_StringBuilder/S8_StringBuilder/obj/Debug/netcoreapp3.1/S8_StringBuilder.pdb

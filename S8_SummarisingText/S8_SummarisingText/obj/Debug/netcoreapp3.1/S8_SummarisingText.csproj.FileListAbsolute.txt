@@ -1,0 +1,11 @@
+/Users/anastasiiastadnik/Projects/S8_SummarisingText/S8_SummarisingText/bin/Debug/netcoreapp3.1/S8_SummarisingText
+/Users/anastasiiastadnik/Projects/S8_SummarisingText/S8_SummarisingText/bin/Debug/netcoreapp3.1/S8_SummarisingText.deps.json
+/Users/anastasiiastadnik/Projects/S8_SummarisingText/S8_SummarisingText/bin/Debug/netcoreapp3.1/S8_SummarisingText.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S8_SummarisingText/S8_SummarisingText/bin/Debug/netcoreapp3.1/S8_SummarisingText.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S8_SummarisingText/S8_SummarisingText/bin/Debug/netcoreapp3.1/S8_SummarisingText.dll
+/Users/anastasiiastadnik/Projects/S8_SummarisingText/S8_SummarisingText/bin/Debug/netcoreapp3.1/S8_SummarisingText.pdb
+/Users/anastasiiastadnik/Projects/S8_SummarisingText/S8_SummarisingText/obj/Debug/netcoreapp3.1/S8_SummarisingText.csprojAssemblyReference.cache
+/Users/anastasiiastadnik/Projects/S8_SummarisingText/S8_SummarisingText/obj/Debug/netcoreapp3.1/S8_SummarisingText.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S8_SummarisingText/S8_SummarisingText/obj/Debug/netcoreapp3.1/S8_SummarisingText.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S8_SummarisingText/S8_SummarisingText/obj/Debug/netcoreapp3.1/S8_SummarisingText.dll
+/Users/anastasiiastadnik/Projects/S8_SummarisingText/S8_SummarisingText/obj/Debug/netcoreapp3.1/S8_SummarisingText.pdb
