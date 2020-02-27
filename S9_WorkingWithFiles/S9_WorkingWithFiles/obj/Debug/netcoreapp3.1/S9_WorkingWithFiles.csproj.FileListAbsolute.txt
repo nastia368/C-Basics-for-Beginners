@@ -1,0 +1,10 @@
+/Users/anastasiiastadnik/Projects/S9_WorkingWithFiles/S9_WorkingWithFiles/bin/Debug/netcoreapp3.1/S9_WorkingWithFiles
+/Users/anastasiiastadnik/Projects/S9_WorkingWithFiles/S9_WorkingWithFiles/bin/Debug/netcoreapp3.1/S9_WorkingWithFiles.deps.json
+/Users/anastasiiastadnik/Projects/S9_WorkingWithFiles/S9_WorkingWithFiles/bin/Debug/netcoreapp3.1/S9_WorkingWithFiles.runtimeconfig.json
+/Users/anastasiiastadnik/Projects/S9_WorkingWithFiles/S9_WorkingWithFiles/bin/Debug/netcoreapp3.1/S9_WorkingWithFiles.runtimeconfig.dev.json
+/Users/anastasiiastadnik/Projects/S9_WorkingWithFiles/S9_WorkingWithFiles/bin/Debug/netcoreapp3.1/S9_WorkingWithFiles.dll
+/Users/anastasiiastadnik/Projects/S9_WorkingWithFiles/S9_WorkingWithFiles/bin/Debug/netcoreapp3.1/S9_WorkingWithFiles.pdb
+/Users/anastasiiastadnik/Projects/S9_WorkingWithFiles/S9_WorkingWithFiles/obj/Debug/netcoreapp3.1/S9_WorkingWithFiles.AssemblyInfoInputs.cache
+/Users/anastasiiastadnik/Projects/S9_WorkingWithFiles/S9_WorkingWithFiles/obj/Debug/netcoreapp3.1/S9_WorkingWithFiles.AssemblyInfo.cs
+/Users/anastasiiastadnik/Projects/S9_WorkingWithFiles/S9_WorkingWithFiles/obj/Debug/netcoreapp3.1/S9_WorkingWithFiles.dll
+/Users/anastasiiastadnik/Projects/S9_WorkingWithFiles/S9_WorkingWithFiles/obj/Debug/netcoreapp3.1/S9_WorkingWithFiles.pdb
